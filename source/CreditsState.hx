@@ -72,7 +72,7 @@ class CreditsState extends MusicBeatState
 			['Vs MrStumble'],
 			['ElCoded',		    'elcoded',		    'Creador del Mod',	 'https://youtube.com/channel/UCemMwRNnAtLFSc_Kuy93sAQ',	    '808080'],
 			
-	
+
 			
 			
 			
